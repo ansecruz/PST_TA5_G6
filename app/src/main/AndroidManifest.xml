@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
-        <activity android:name=".ActivityLibros"></activity>
+        <activity android:name=".ActivityLibros" />
         <activity android:name=".ActivityRegistro" />
         <activity android:name=".ActivityLogin" />
         <activity android:name=".MainActivity">
